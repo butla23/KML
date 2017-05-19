@@ -4,35 +4,35 @@
     <name>Pizzeria Krokodyl</name>
     <description>Najlepsza pizza w mieście.</description>
     <Point>
-      <coordinates>54.401328,18.608647,0</coordinates>
+      <coordinates>18.608647,54.401328,0</coordinates>
     </Point>  
   </Placemark>
    <Placemark>
     <name>Parafia pw Opatrzności Bozej</name>
     <description>Parafia z księdzem którego szybkość mowy jest mniejsza niż leniwca.</description>
     <Point>
-      <coordinates>54.400744,18.609822,0</coordinates>
+      <coordinates>18.609822,54.400744,0</coordinates>
     </Point>  
   </Placemark>
    <Placemark>
     <name>przystanek Leszczynskich</name>
     <description>Przystanek autobusowy linii 127, 154.</description>
     <Point>
-      <coordinates>54.399577,18.607091,0</coordinates>
+      <coordinates>18.607091,54.399577,0</coordinates>
     </Point>  
   </Placemark>
    <Placemark>
     <name>Zielony pomnik</name>
     <description>Pomnik im Jana Pawła II w jego parku.</description>
     <Point>
-      <coordinates>54.400008,18.605095,0</coordinates>
+      <coordinates>18.605095,54.400008,0</coordinates>
     </Point>  
   </Placemark>
    <Placemark>
     <name>Przedszkole nr 88</name>
     <description>Przedszkole stanowiące 1 etap edukacji dzieci.</description>
     <Point>
-      <coordinates>54.400354,18.606063,0</coordinates>
+      <coordinates>18.606063,54.400354,0</coordinates>
     </Point>  
   </Placemark>
   <Placemark>
@@ -43,14 +43,14 @@
         <extrude>1</extrude>
         <tessellate>1</tessellate>
         <altitudeMode>absolute</altitudeMode>
-        <coordinates> 54.399011,18.606351,2357
-          54.394638,18.602060,2357
-          54.385418,18.612274,2357
-          54.378145,18.615922,2357
-          54.375920,18.614291,2357
-          54.374295,18.612875,2357
-          54.372896,18.616737,2357
-          54.371203,18.613273,2357
+        <coordinates> 18.606351,54.399011,2357
+          18.602060,54.394638,2357
+          18.612274,54.385418,2357
+          18.615922,54.378145,2357
+          18.614291,54.375920,2357
+          18.612875,54.374295,2357
+          18.616737,54.372896,2357
+          18.613273,54.371203,2357
                </coordinates>
       </LineString>
     </Placemark>
@@ -59,14 +59,14 @@
       <altitudeMode>relativeToGround</altitudeMode>
        <LinearRing>
           <coordinates>
-            54.371102,18.617433,100 
-            54.370975,18.617456,100 
-            54.371023,18.618227,100 
-            54.371149,18.618200,100 
-            54.371152,18.618176,100 
-            54.371183,18.618168,100
-            54.371179,18.618104,100
-            54.371148,18.618111,100
+            18.617433,54.371102,100 
+            18.617456,54.370975,100 
+            18.618227,54.371023,100 
+            18.618200,54.371149,100 
+            18.618176,54.371152,100 
+            18.618168,54.371183,100
+            18.618104,54.371179,100
+            18.618111,54.371148,100
           </coordinates>
         </LinearRing>
       </Polygon>
