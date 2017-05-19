@@ -54,4 +54,20 @@
                </coordinates>
       </LineString>
     </Placemark>
+   <Polygon>
+      <extrude>1</extrude>
+      <altitudeMode>relativeToGround</altitudeMode>
+       <LinearRing>
+          <coordinates>
+            54.371102,18.617433,100 
+            54.370975,18.617456,100 
+            54.371023,18.618227,100 
+            54.371149,18.618200,100 
+            54.371152,18.618176,100 
+            54.371183,18.618168,100
+            54.371179,18.618104,100
+            54.371148,18.618111,100
+          </coordinates>
+        </LinearRing>
+      </Polygon>
 </kml>
