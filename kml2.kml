@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="transBluePoly">
+      <LineStyle>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7dff0000</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Building 41</name>
+      <styleUrl>#transBluePoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates> 18.617433,54.371102,100 
+            18.617456,54.370975,100 
+            18.618227,54.371023,100 
+            18.618200,54.371149,100 
+            18.618176,54.371152,100 
+            18.618168,54.371183,100
+            18.618104,54.371179,100
+            18.618111,54.371148,100
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  <Placemark>
+    <name>Simple placemark1</name>
+    <description>1</description>
+    <Point>
+      <coordinates>18.712753,54.372020, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Simple placemark2</name>
+    <description>2</description>
+    <Point>
+      <coordinates>18.812753,54.372020, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Simple placemark3</name>
+    <description>3</description>
+    <Point>
+      <coordinates>18.912753,54.372020, 0</coordinates>
+    </Point>
+  </Placemark>
+    <Placemark>
+    <name>Simple placemark4</name>
+    <description>4</description>
+    <Point>
+      <coordinates>18.712753,54.472020, 0</coordinates>
+    </Point>
+  </Placemark> 
+  <Placemark>
+    <name>Simple placemark5</name>
+    <description>5</description>
+    <Point>
+      <coordinates>18.712753,54.572020, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> 18.606351,54.399011,2357
+          18.602060,54.394638,2357
+          18.612274,54.385418,2357
+          18.615922,54.378145,2357
+          18.614291,54.375920,2357
+          18.612875,54.374295,2357
+          18.616737,54.372896,2357
+18.613273,54.371203,2357
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
