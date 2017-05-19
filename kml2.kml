@@ -31,40 +31,47 @@
       </Polygon>
     </Placemark>
   <Placemark>
-    <name>Simple placemark1</name>
-    <description>1</description>
+    <name>Pizzeria Krokodyl</name>
+    <description>Najlepsza pizza w mieście.</description>
     <Point>
-      <coordinates>18.712753,54.372020, 0</coordinates>
-    </Point>
+      <coordinates>18.608647,54.401328,0</coordinates>
+    </Point>  
   </Placemark>
   <Placemark>
-    <name>Simple placemark2</name>
-    <description>2</description>
+    <name>Testowy</name>
+    <description>Najlepsza pizza w mieście.</description>
     <Point>
-      <coordinates>18.812753,54.372020, 0</coordinates>
-    </Point>
+      <coordinates>18.605968952178955,54.39905177198776,100</coordinates>
+    </Point>  
   </Placemark>
-  <Placemark>
-    <name>Simple placemark3</name>
-    <description>3</description>
+   <Placemark>
+    <name>Parafia pw Opatrzności Bozej</name>
+    <description>Parafia z księdzem którego szybkość mowy jest mniejsza niż leniwca.</description>
     <Point>
-      <coordinates>18.912753,54.372020, 0</coordinates>
-    </Point>
+      <coordinates>18.609822,54.400744,0</coordinates>
+    </Point>  
   </Placemark>
-    <Placemark>
-    <name>Simple placemark4</name>
-    <description>4</description>
+   <Placemark>
+    <name>przystanek Leszczynskich</name>
+    <description>Przystanek autobusowy linii 127, 154.</description>
     <Point>
-      <coordinates>18.712753,54.472020, 0</coordinates>
-    </Point>
-  </Placemark> 
-  <Placemark>
-    <name>Simple placemark5</name>
-    <description>5</description>
-    <Point>
-      <coordinates>18.712753,54.572020, 0</coordinates>
-    </Point>
+      <coordinates>18.607091,54.399577,0</coordinates>
+    </Point>  
   </Placemark>
+   <Placemark>
+    <name>Zielony pomnik</name>
+    <description>Pomnik im Jana Pawła II w jego parku.</description>
+    <Point>
+      <coordinates>18.605095,54.400008,0</coordinates>
+    </Point>  
+  </Placemark>
+   <Placemark>
+    <name>Przedszkole nr 88</name>
+    <description>Przedszkole stanowiące 1 etap edukacji dzieci.</description>
+    <Point>
+      <coordinates>18.606063,54.400354,0</coordinates>
+    </Point>  
+</Placemark>
   <Placemark>
       <LineString>
         <extrude>1</extrude>
