@@ -35,4 +35,23 @@
       <coordinates>54.400354,18.606063,0</coordinates>
     </Point>  
   </Placemark>
+  <Placemark>
+      <name>Droga na PG</name>
+      <description>Droga na PG</description>
+      <styleUrl>#yellowLineGreenPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> 54.399011,18.606351,2357
+          54.394638,18.602060,2357
+          54.385418,18.612274,2357
+          54.378145,18.615922,2357
+          54.375920,18.614291,2357
+          54.374295,18.612875,2357
+          54.372896,18.616737,2357
+          54.371203,18.613273,2357
+               </coordinates>
+      </LineString>
+    </Placemark>
 </kml>
