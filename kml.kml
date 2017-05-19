@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
-    <name>Simple placemark</name>
+    <name>Pizzeria Krokodyl</name>
     <description>Attached to the ground. Intelligently places itself 
        at the height of the underlying terrain.</description>
     <Point>
-      <coordinates>-122.0822035425683,37.42228990140251,0</coordinates>
-    </Point>
+      <coordinates>54.401328,18.608647,0</coordinates>
+    </Point>  
+  </Placemark>
+   <Placemark>
+    <name>Parafia pw Opatrzności Bozej</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>54.400744,18.609822,0</coordinates>
+    </Point>  
+  </Placemark>
+   <Placemark>
+    <name>przystanek Leszczynskich</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>54.399577,18.607091,0</coordinates>
+    </Point>  
+  </Placemark>
+   <Placemark>
+    <name>Zielony pomnik</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>54.400008,18.605095,0</coordinates>
+    </Point>  
+  </Placemark>
+   <Placemark>
+    <name>Przedszkole nr 88</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>54.400354,18.606063,0</coordinates>
+    </Point>  
   </Placemark>
 </kml>
