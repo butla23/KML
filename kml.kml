@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="transBluePoly">
+      <LineStyle>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7dff0000</color>
+      </PolyStyle>
+    </Style>
   <Placemark>
     <name>Pizzeria Krokodyl</name>
     <description>Najlepsza pizza w mieście.</description>
@@ -61,9 +70,13 @@
                </coordinates>
       </LineString>
     </Placemark>
+    <Placemark>
+      <name>Building</name>
+      <styleUrl>#transBluePoly</styleUrl>
    <Polygon>
       <extrude>1</extrude>
       <altitudeMode>relativeToGround</altitudeMode>
+     <outerBoundaryIs>
        <LinearRing>
           <coordinates>
             18.617433,54.371102,100 
@@ -76,5 +89,7 @@
             18.618111,54.371148,100
           </coordinates>
         </LinearRing>
+       </outerBoundaryIs>
       </Polygon>
+      </Placemark>
 </kml>
