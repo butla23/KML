@@ -11,7 +11,7 @@
     <name>Testowy</name>
     <description>Najlepsza pizza w mieście.</description>
     <Point>
-      <coordinates>18.605968952178955,54.39905177198776,0</coordinates>
+      <coordinates>18.605968952178955,54.39905177198776,100</coordinates>
     </Point>  
   </Placemark>
    <Placemark>
