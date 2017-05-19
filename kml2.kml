@@ -32,21 +32,21 @@
     </Placemark>
   <Placemark>
     <name>Pizzeria Krokodyl</name>
-    <description>Najlepsza pizza w mieście.</description>
+    <description>Najlepsza pizza w miescie.</description>
     <Point>
       <coordinates>18.608647,54.401328,0</coordinates>
     </Point>  
   </Placemark>
   <Placemark>
     <name>Testowy</name>
-    <description>Najlepsza pizza w mieście.</description>
+    <description>Najlepsza pizza w miescie.</description>
     <Point>
       <coordinates>18.605968952178955,54.39905177198776,100</coordinates>
     </Point>  
   </Placemark>
    <Placemark>
-    <name>Parafia pw Opatrzności Bozej</name>
-    <description>Parafia z księdzem którego szybkość mowy jest mniejsza niż leniwca.</description>
+    <name>Parafia pw Opatrznosci Bozej</name>
+    <description>Parafia z ksiedzem ktorego szybkosc mowy jest mniejsza niż leniwca.</description>
     <Point>
       <coordinates>18.609822,54.400744,0</coordinates>
     </Point>  
@@ -60,14 +60,14 @@
   </Placemark>
    <Placemark>
     <name>Zielony pomnik</name>
-    <description>Pomnik im Jana Pawła II w jego parku.</description>
+    <description>Pomnik im Jana Pawla II w jego parku.</description>
     <Point>
       <coordinates>18.605095,54.400008,0</coordinates>
     </Point>  
   </Placemark>
    <Placemark>
     <name>Przedszkole nr 88</name>
-    <description>Przedszkole stanowiące 1 etap edukacji dzieci.</description>
+    <description>Przedszkole stanowiace 1 etap edukacji dzieci.</description>
     <Point>
       <coordinates>18.606063,54.400354,0</coordinates>
     </Point>  
